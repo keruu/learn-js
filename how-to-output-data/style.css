@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  min-height: 33.3333vh;
+}
+
+.box-1 {
+  background: #def;
+}
+.box-2 {
+  background: #fde;
+}
+.box-3 {
+  background: #efd;
+}
